@@ -6,4 +6,4 @@ MediConnect offers you seamless access to qualified doctors through your mobile 
 
 mediconnect.app
 
-![Banner Ad](Group 2.png)
+![Banner Ad](banner.png)
